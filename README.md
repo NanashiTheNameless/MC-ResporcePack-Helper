@@ -1,6 +1,6 @@
 # MC-ResporcePack-Helper
 helper for minecraft resource packs.
-This Program ONLY Suppords Windows 7 and Windows 10.
+This Program ONLY Suppords Windows 7, 8 and Windows 10.
 
 code is as follows:
 `<# : chooser.bat
